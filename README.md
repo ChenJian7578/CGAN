@@ -1,4 +1,4 @@
-# 该项目为在手写字数据集上实现CGAN(Conditional GAN)
+# 该项目为在手写字数据集(minist)上实现CGAN(Conditional GAN)
 
 # 需要环境
   torch、torchvision、numpy、argparse、requests
